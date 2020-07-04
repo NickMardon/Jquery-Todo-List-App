@@ -13,6 +13,10 @@ To-Do list app made with HTML,CSS,and Jquery.  Made with tutorials from the Colt
 * [Credits](#credits)
 * [License](#license)
 
+## Screenshots 
+
+<img width="1365" alt="Screen Shot 2020-07-04 at 1 55 19 PM" src="https://user-images.githubusercontent.com/64296192/86520874-2f3b9c00-bdfe-11ea-9cfe-08c6561bb70c.png">
+
 
 ## Installation 
 
